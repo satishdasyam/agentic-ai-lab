@@ -1,0 +1,1 @@
+# With the help of persona prompting, we can create a specific persona of any person and the LLM responds like that. For that we need to fill system prompt good examples.
